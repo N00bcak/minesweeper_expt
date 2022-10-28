@@ -1,0 +1,63 @@
+Grid Height: 20, Grid Width: 20, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 0
+Average Difficulty Ranking per mine: 6.7
+Grid Height: 20, Grid Width: 20, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 5
+Average Difficulty Ranking per mine: 7.641666666666667
+Grid Height: 20, Grid Width: 20, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 10
+Average Difficulty Ranking per mine: 7.658333333333333
+Grid Height: 20, Grid Width: 20, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 15
+Average Difficulty Ranking per mine: 7.65
+Grid Height: 20, Grid Width: 20, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 20
+Average Difficulty Ranking per mine: 7.641666666666667
+Grid Height: 20, Grid Width: 20, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 25
+Average Difficulty Ranking per mine: 7.666666666666667
+Grid Height: 20, Grid Width: 20, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 30
+Average Difficulty Ranking per mine: 7.666666666666667
+Grid Height: 30, Grid Width: 30, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 0
+Average Difficulty Ranking per mine: 6.888888888888889
+Grid Height: 30, Grid Width: 30, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 5
+Average Difficulty Ranking per mine: 8.048148148148147
+Grid Height: 30, Grid Width: 30, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 10
+Average Difficulty Ranking per mine: 8.059259259259258
+Grid Height: 30, Grid Width: 30, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 15
+Average Difficulty Ranking per mine: 8.051851851851852
+Grid Height: 30, Grid Width: 30, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 20
+Average Difficulty Ranking per mine: 8.055555555555555
+Grid Height: 30, Grid Width: 30, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 25
+Average Difficulty Ranking per mine: 8.040740740740741
+Grid Height: 30, Grid Width: 30, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 30
+Average Difficulty Ranking per mine: 8.062962962962963
+Grid Height: 40, Grid Width: 40, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 0
+Average Difficulty Ranking per mine: 7.01875
+Grid Height: 40, Grid Width: 40, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 5
+Average Difficulty Ranking per mine: 8.254166666666666
+Grid Height: 40, Grid Width: 40, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 10
+Average Difficulty Ranking per mine: 8.260416666666666
+Grid Height: 40, Grid Width: 40, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 15
+Average Difficulty Ranking per mine: 8.254166666666666
+Grid Height: 40, Grid Width: 40, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 20
+Average Difficulty Ranking per mine: 8.258333333333333
+Grid Height: 40, Grid Width: 40, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 25
+Average Difficulty Ranking per mine: 8.25625
+Grid Height: 40, Grid Width: 40, Mine density: 0.3, Sample: 1000
+Game of Life Iterations: 30
+Average Difficulty Ranking per mine: 8.260416666666666
